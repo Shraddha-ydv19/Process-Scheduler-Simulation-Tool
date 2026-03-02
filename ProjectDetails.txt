@@ -1,4 +1,4 @@
-Project Name: Process Scheduler Simulation Tool
+Project Name: <Process Scheduler Simulation Tool>
 
 Description:
 This project is a simulation tool for studying CPU scheduling algorithms.
@@ -22,7 +22,7 @@ Use Case:
 - Helps visualize process scheduling and analyze CPU utilization
 - Useful for understanding scheduling metrics and preemption effects
 
-Author: Ankita Yadav
+Author: Shraddha Yadav
 
 
 deploy Link: https://process-scheduler-simulation-tool.netlify.app/
